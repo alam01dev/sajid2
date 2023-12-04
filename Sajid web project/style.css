@@ -1,0 +1,38 @@
+.fpab{
+   color: rgb(164, 164, 215);
+   background-color: rgb(136, 42, 165);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 50px;
+  }
+  .fpab:hover{
+    color: blue;
+  }
+  .ippf{
+   color: blueviolet;
+   background-color: blanchedalmond;
+  }
+ .ippf:hover{
+   color: black;
+ }
+
+ h1{
+  color: blue;
+  background-color: aqua;
+  border-radius: 25px;
+  padding: 30px;
+  border-style: outset;
+  text-align: center;
+  border-color: bisque;
+ }
+ h1:hover{
+  color: brown;
+ }
+ h1:active{
+  color: blueviolet;
+ }
+ a{
+  color: blue;
+}
+a:hover{
+  color: brown;
+}
